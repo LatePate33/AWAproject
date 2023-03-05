@@ -41,5 +41,5 @@ Features:
 Basic Features: 25 \
 Utilization of a frontside framework, React: 5 \
 Translation of the whole UI in two or more languages: 2 \
-Header and clean UI: 5 \
-Points: 37
+Header and clean UI: 6 \
+Points: 38
